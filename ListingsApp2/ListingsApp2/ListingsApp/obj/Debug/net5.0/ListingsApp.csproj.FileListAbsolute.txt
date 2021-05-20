@@ -1,0 +1,16 @@
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.exe
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.deps.json
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.runtimeconfig.json
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.runtimeconfig.dev.json
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.dll
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ref\ListingsApp.dll
+C:\Code\Practice\ListingsApp\ListingsApp\bin\Debug\net5.0\ListingsApp.pdb
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.csprojAssemblyReference.cache
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.AssemblyInfoInputs.cache
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.AssemblyInfo.cs
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.csproj.CoreCompileInputs.cache
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.dll
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ref\ListingsApp.dll
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.pdb
+C:\Code\Practice\ListingsApp\ListingsApp\obj\Debug\net5.0\ListingsApp.genruntimeconfig.cache
